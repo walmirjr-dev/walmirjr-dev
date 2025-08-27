@@ -109,8 +109,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-origina
 
 ### Conecte-se Comigo
 
-| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="380" height="60" />](www.linkedin.com/in/walmir-junior) | [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="380" height="60" />](mailto:walmiralves.dev@gmail.com) |
-| :--- | ---: |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walmirj-junior)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walmiralves.dev@gmail.com)
 
 
 
