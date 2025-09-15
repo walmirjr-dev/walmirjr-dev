@@ -102,6 +102,14 @@ align="left"
     style="padding-right: 14px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 
+<img
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="50px" 
+    style="padding-right: 14px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+
 <br>
 <br>
 
